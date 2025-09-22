@@ -16,6 +16,15 @@
 - **Other Skills:** Machine Learning, Deep Learning (Basics), Data Visualization  
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+### 🚀 Project  
+
+- **Stress Detection in IT Professionals**  
+  Machine learning–based web application designed to classify stress levels into Low, Moderate, and High. The system integrates Flask for the backend, MySQL for database management, and a stacking regressor model for predictions. It also provides counseling links and recommendations when high stress is detected.  
+  *Tech Stack: Python, Flask, Scikit-learn, MySQL, HTML, CSS, Bootstrap*  
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sushravya40&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sushravya40&theme=dark&hide_border=false)<br/>

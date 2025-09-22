@@ -6,6 +6,15 @@
 ### 👋 About Me  <br><br>- 🎓 Currently completed  **Master of Computer Applications (MCA)**  <br>- 📊 Recent project: **Stress Detection in IT Professionals using Machine Learning** (Flask + Scikit-learn + MySQL + Chart.js)  <br>- 🛠️ Skills: Python, Flask, Pandas, NumPy, Scikit-learn, MySQL, HTML, CSS.  <br>
 
 # 💻 Tech Stack:
+### 🔧 Tech & Tools  
+
+- **Languages:** Python, MySQL, HTML, CSS, C, Java  
+- **Frameworks & Libraries:** Flask, Pandas, NumPy, Scikit-learn, Bootstrap  
+- **Cloud:** AWS (Basics)  
+- **Database:** MySQL  
+- **Tools:** Git/GitHub, Excel/Sheets, ServiceNow  
+- **Other Skills:** Machine Learning, Deep Learning (Basics), Data Visualization  
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sushravya40&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

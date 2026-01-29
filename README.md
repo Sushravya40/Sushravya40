@@ -22,7 +22,11 @@
 ### 🚀 Project  
 
 - **Stress Detection in IT Professionals**  
-  Machine learning–based web application designed to classify stress levels into Low, Moderate, and High. The system integrates Flask for the backend, MySQL for database management, and a stacking regressor model for predictions. It also provides counseling links and recommendations when high stress is detected.  
+ • Designed and implemented a machine learning model to predict stress levels in IT professionals.  
+• Applied supervised learning algorithms including Random Forest, Ada Boost, Extra Tree, and Stacking Classifier.  
+• Performed data preprocessing, feature extraction, model training, and evaluation.  
+• Developed personalized stress-management recommendations.  
+
   *Tech Stack: Python, Flask, Scikit-learn, MySQL, HTML, CSS, Bootstrap*  
 
 

@@ -1,41 +1,79 @@
-## Hi I'm Sushravya 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sushravya-b-c-6bb421228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushravya1723@gmail.com) 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There,%20I'm%20Sushravya!%20👋&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=58&descAlign=50&animation=fadeIn" alt="Header" />
+</div>
 
-# 💫 About Me:
-### 👋 About Me  <br><br>- 🎓 Currently completed  **Master of Computer Applications (MCA)**  <br>- 📊 Recent project: **Stress Detection in IT Professionals using Machine Learning** (Flask + Scikit-learn + MySQL + Chart.js)  <br>- 🛠️ Skills: Python, Flask, Pandas, NumPy, Scikit-learn, SQL, HTML5, CSS.  <br>
+<h3 align="center">Crafting elegant digital experiences and intelligent systems. 💻✨</h3>
 
-# 💻 Tech Stack:
-### 🔧 Tech & Tools  
+<div align="center">
+  <a href="https://sushravya40.github.io/-/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7c5cff?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sushravya1723@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sushravya-b-c-6bb421228" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
+<br />
 
-- **Languages:** Python, SQL, HTML5, CSS, Java  
-- **Frameworks & Libraries:** Flask, Pandas, NumPy, Scikit-learn, Bootstrap  
-- **Cloud:** AWS (Basics)  
-- **Database:** MySQL  
-- **Tools:** Git/GitHub, VS Code, Eclipse
-- **Other Skills:** Machine Learning, Data Visualization  
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-### 🚀 Project  
-
-- **Stress Detection in IT Professionals**  
- • Designed and implemented a machine learning model to predict stress levels in IT professionals.  
-• Applied supervised learning algorithms including Random Forest, Ada Boost, Extra Tree, and Stacking Classifier.  
-• Performed data preprocessing, feature extraction, model training, and evaluation.  
-• Developed personalized stress-management recommendations.  
-
-  *Tech Stack: Python, Flask, Scikit-learn, MySQL, HTML, CSS, Bootstrap*  
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sushravya40&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sushravya40&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushravya40&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 👩‍💻 About Me
+* 🎓 **Master of Computer Application (MCA)** graduate from The National Institute of Engineering, Mysore.
+* 🔭 I’m currently interning as a **Software Developer** at KodNest Technologies and previously worked as an **AI/ML Intern**.
+* ⚡ **Fact:** I love building responsive web apps, experimenting with machine learning models, and bringing clean UI/UX designs to life.
+* 📍 Based in Karnataka, India.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sushravya40&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack & Tools
+
+**Frontend:**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+
+**Backend & Frameworks:**  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+
+**Database & ML:**  
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+
+---
+
+### 🚀 Featured Projects
+* 🍃 **Vegelight:** A premium full-stack Django platform for vegetarian food delivery, featuring Razorpay integration and a sleek glassmorphism UI.
+* 🧠 **Stress Detection using ML:** A machine learning pipeline utilizing Random Forest, AdaBoost, and Stacking Classifiers to predict stress levels in IT professionals.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushravya40&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushravya40&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushravya40&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>

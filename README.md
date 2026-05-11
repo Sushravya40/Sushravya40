@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There,%20I'm%20Sushravya!%20👋&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=58&descAlign=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There,%20I'm%20Sushravya!%20👋&fontSize=50&fontAlignY=38&desc=Aspiring%20SDE%20|%20Full-Stack%20Java%20&%20Python%20Developer&descAlignY=58&descAlign=50&animation=fadeIn" alt="Header" />
 </div>
 
-<h3 align="center">Crafting elegant digital experiences and intelligent systems. 💻✨</h3>
+<h3 align="center">Building robust software architectures and seamless web experiences. 💻✨</h3>
 
 <div align="center">
   <a href="https://sushravya40.github.io/-/" target="_blank">
@@ -20,13 +20,20 @@
 
 ### 👩‍💻 About Me
 * 🎓 **Master of Computer Application (MCA)** graduate from The National Institute of Engineering, Mysore.
-* 🔭 I’m currently interning as a **Software Developer** at KodNest Technologies and previously worked as an **AI/ML Intern**.
-* ⚡ **Fact:** I love building responsive web apps, experimenting with machine learning models, and bringing clean UI/UX designs to life.
+* 🔭 I’m currently interning as a **Software Developer** at KodNest Technologies, focusing on Full-Stack Development.
+* ⚡ **Fact:** I love architecting robust backend systems, solving complex algorithms, and bringing clean UI/UX designs to life.
+* 🎯 Actively seeking opportunities as a **Software Development Engineer (SDE)** or **Full-Stack Developer (Java/Python)**.
 * 📍 Based in Karnataka, India.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+**Languages & Backend Frameworks:**  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 
 **Frontend:**  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -36,24 +43,17 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 
-**Backend & Frameworks:**  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-
-**Database & ML:**  
+**Database & Tools:**  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 ---
 
 ### 🚀 Featured Projects
-* 🍃 **Vegelight:** A premium full-stack Django platform for vegetarian food delivery, featuring Razorpay integration and a sleek glassmorphism UI.
-* 🧠 **Stress Detection using ML:** A machine learning pipeline utilizing Random Forest, AdaBoost, and Stacking Classifiers to predict stress levels in IT professionals.
+* 🍃 **Vegelight:** A premium full-stack Django platform for vegetarian food delivery, featuring secure user authentication, Razorpay integration, and a sleek glassmorphism UI.
+* 🧠 **Stress Detection:** My MCA academic project where I implemented a supervised learning pipeline to predict stress levels in IT professionals.
 
 ---
 
@@ -72,7 +72,7 @@
 
 ---
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <i>"First, solve the problem. Then, write the code."</i>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>

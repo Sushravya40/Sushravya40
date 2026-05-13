@@ -89,11 +89,4 @@ An ML model to predict stress levels using **Python** (Random Forest, Ada Boost,
 - **Master of Computer Applications (MCA)** @ *The National Institute of Engineering, Mysore* (2023 - 2025) | CGPA: 8.3
 - **Bachelor of Computer Applications (BCA)** @ *PES Degree College for Science, Arts and Commerce, Mandya* (2020 - 2023) | CGPA: 8.4
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushravya40&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushravya40&theme=radical" alt="GitHub Streak" />
-</p>

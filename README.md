@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushravya B C</h1>
-<h3 align="center">A passionate Full-Stack Developer & MCA Graduate from India 🇮🇳</h3>
+<h3 align="center">A passionate Full-Stack Developer & MCA Graduate </h3>
 
 <p align="center">
   <a href="https://sushravya40.github.io/-/" target="_blank">

@@ -75,6 +75,10 @@ A full-stack **Django** web application exclusively for vegetarian food delivery
 An ML model to predict stress levels using **Python** (Random Forest, Ada Boost, Extra Tree, Stacking Classifier). Provides personalized stress-management recommendations based on predictions. <br>
 [🔗 GitHub](https://github.com/Sushravya40/stress-detection) | [🌐 Live Demo](https://stress-detection-2-o7p9.onrender.com/)
 
+#### [Home Decor Website 🚧 (In Progress)](https://github.com/Sushravya40/home-decor-website)
+A modern, responsive e-commerce platform for home decor items. Currently under active development, focusing on crafting a beautiful UI and seamless shopping experience. <br>
+[🔗 GitHub](https://github.com/Sushravya40/home-decor-website)
+
 ---
 
 ### 💼 Experience

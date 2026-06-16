@@ -61,7 +61,7 @@ I am a motivated Computer Applications graduate with a strong interest in **Soft
 
 #### [ShopKart: Full-Stack E-Commerce App](https://github.com/Sushravya40/ShopKart)
 A robust, modern full-stack e-commerce application. The backend is powered by **Spring Boot** with **Spring Security (JWT)**, and the frontend is a beautiful, interactive **React/Vite** interface. Includes complete product management, a shopping cart, and seamless Razorpay integration for checkout. <br>
-[🔗 GitHub](https://github.com/Sushravya40/ShopKart)
+[🔗 GitHub](https://github.com/Sushravya40/ShopKart) | [🌐 Live Demo](https://shopkart-frontend-9nk9.onrender.com)
 
 #### [Planr: Modern Task Manager](https://planr-jhr2.onrender.com)
 A highly interactive Task Manager application built with **React** and **Vite**. Features state management with React Hooks, local storage persistence, and a vibrant glassmorphism UI with smooth micro-animations. <br>

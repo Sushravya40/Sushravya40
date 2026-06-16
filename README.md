@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushravya B C</h1>
-<h3 align="center">A passionate Full-Stack Developer & MCA Graduate </h3>
+<h3 align="center">Software Developer | Java Full Stack | Spring Boot • React • MySQL • Python | Building Scalable Applications</h3>
 
 <p align="center">
   <a href="https://sushravya40.github.io/-/" target="_blank">

@@ -77,7 +77,7 @@ An ML model to predict stress levels using **Python** (Random Forest, Ada Boost,
 
 #### [Home Decor Website 🚧 (In Progress)](https://github.com/Sushravya40/home-decor-website)
 A modern, responsive e-commerce platform for home decor items. Currently under active development, focusing on crafting a beautiful UI and seamless shopping experience. <br>
-[🔗 GitHub](https://github.com/Sushravya40/home-decor-website)
+[🔗 GitHub](https://github.com/Sushravya40/home-decor-website) | [🌐 Live Demo](https://sushravya40.github.io/home-decor-website/html/homepage.html)
 
 ---
 

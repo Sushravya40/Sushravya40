@@ -59,15 +59,19 @@ I am a motivated Computer Applications graduate with a strong interest in **Soft
 
 ### 🚀 Featured Projects
 
+#### [ShopKart: Full-Stack E-Commerce App](https://github.com/Sushravya40/ShopKart)
+A robust, modern full-stack e-commerce application. The backend is powered by **Spring Boot** with **Spring Security (JWT)**, and the frontend is a beautiful, interactive **React/Vite** interface. Includes complete product management, a shopping cart, and seamless Razorpay integration for checkout. <br>
+[🔗 GitHub](https://github.com/Sushravya40/ShopKart)
+
 #### [Planr: Modern Task Manager](https://planr-jhr2.onrender.com)
 A highly interactive Task Manager application built with **React** and **Vite**. Features state management with React Hooks, local storage persistence, and a vibrant glassmorphism UI with smooth micro-animations. <br>
-[🔗 GitHub](https://github.com/Sushravya40/Practice/tree/main/Planr) | [🌐 Live Demo](https://planr-jhr2.onrender.com)
+[🔗 GitHub](https://github.com/Sushravya40/planr) | [🌐 Live Demo](https://planr-jhr2.onrender.com)
 
 #### [Vegelight: Premium Food Delivery Platform](https://vegelight.onrender.com/)
 A full-stack **Django** web application exclusively for vegetarian food delivery. Includes secure user authentication, distinct Customer/Admin dashboards, and Razorpay integration for seamless checkouts. <br>
-[🔗 GitHub](https://github.com/Sushravya40/Practice) | [🌐 Live Demo](https://vegelight.onrender.com/)
+[🔗 GitHub](https://github.com/Sushravya40/Vegelight) | [🌐 Live Demo](https://vegelight.onrender.com/)
 
-#### [Stress Detection of IT Professionals using Machine Learning](https://stress-detection-2-o7p9.onrender.com/)
+#### [Stress Detection of IT Professionals using ML](https://stress-detection-2-o7p9.onrender.com/)
 An ML model to predict stress levels using **Python** (Random Forest, Ada Boost, Extra Tree, Stacking Classifier). Provides personalized stress-management recommendations based on predictions. <br>
 [🔗 GitHub](https://github.com/Sushravya40/stress-detection) | [🌐 Live Demo](https://stress-detection-2-o7p9.onrender.com/)
 
@@ -94,6 +98,9 @@ An ML model to predict stress levels using **Python** (Random Forest, Ada Boost,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Sushravya40&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushravya40&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushravya40&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushravya40&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushravya40&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>

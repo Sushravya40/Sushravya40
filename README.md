@@ -87,7 +87,7 @@ A modern, responsive e-commerce platform for home decor items currently under ac
 
 ### 🏆 Certifications
 
-- **Full Stack Development** @ *KodNest* (June 2026) | [View Credential](https://drive.google.com/file/d/1s7QeRqBbPaY4lvYX44uwM6cCL1JE8Hx4/view?usp=drivesdk)
+- **Full Stack Development** @ *KodNest* (June 2026) | [View Credential](https://production-resume-builder.s3.ap-south-1.amazonaws.com/certificates/KOD1NF63V-Sushravya%20B%20C/certificate.pdf)
 
 ---
 

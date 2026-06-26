@@ -59,10 +59,6 @@ I am a motivated Computer Applications graduate with a strong interest in **Soft
 
 ### 🚀 Featured Projects
 
-#### [Home Decor Website 🚧 (In Progress)](https://github.com/Sushravya40/home-decor-website)
-A modern, responsive e-commerce platform for home decor items. Currently under active development, focusing on crafting a beautiful UI and seamless shopping experience. <br>
-[🔗 GitHub](https://github.com/Sushravya40/home-decor-website) | [🌐 Live Demo](https://sushravya40.github.io/home-decor-website/html/homepage.html)
-
 #### [ShopKart: Full-Stack E-Commerce App](https://github.com/Sushravya40/ShopKart)
 A robust, modern full-stack e-commerce application. The backend is powered by **Spring Boot** with **Spring Security (JWT)**, and the frontend is a beautiful, interactive **React/Vite** interface. Includes complete product management, a shopping cart, and seamless Razorpay integration for checkout. <br>
 [🔗 GitHub](https://github.com/Sushravya40/ShopKart) | [🌐 Live Demo](https://shopkart-frontend-9nk9.onrender.com)
@@ -78,6 +74,10 @@ A full-stack **Django** web application exclusively for vegetarian food delivery
 #### [Stress Detection of IT Professionals using ML](https://stress-detection-2-o7p9.onrender.com/)
 An ML model to predict stress levels using **Python** (Random Forest, Ada Boost, Extra Tree, Stacking Classifier). Provides personalized stress-management recommendations based on predictions. <br>
 [🔗 GitHub](https://github.com/Sushravya40/stress-detection) | [🌐 Live Demo](https://stress-detection-2-o7p9.onrender.com/)
+
+#### [Home Decor Website 🚧 (In Progress)](https://github.com/Sushravya40/home-decor-website)
+A modern, responsive e-commerce platform for home decor items. Currently under active development, focusing on crafting a beautiful UI and seamless shopping experience. <br>
+[🔗 GitHub](https://github.com/Sushravya40/home-decor-website) | [🌐 Live Demo](https://sushravya40.github.io/home-decor-website/html/homepage.html)
 
 ---
 

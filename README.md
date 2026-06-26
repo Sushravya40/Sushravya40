@@ -99,6 +99,14 @@ A modern, responsive e-commerce platform for home decor items. Currently under a
 
 ---
 
+### 🏆 Certifications
+
+- **Full Stack Development** @ *KodNest* (Issued: June 2026)
+  - Completed a six-month training program in Java & Python Full Stack Development.
+  - Credential ID: `109f3f4f-c360-482e-a046-dd4468647f45`
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">

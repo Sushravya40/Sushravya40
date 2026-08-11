@@ -49,9 +49,9 @@ I am a Full-Stack Developer passionate about building scalable, responsive web a
 
 ### 🚀 Featured Projects
 
-#### [ShopKart: Full-Stack E-Commerce App](https://github.com/Sushravya40/ShopKart)
+#### [ShopKart: Full-Stack E-Commerce App](https://github.com/Sushravya40/shopkart-ecommerce)
 A robust Spring Boot + React e-commerce application with seamless Razorpay integration.<br>
-[🔗 GitHub](https://github.com/Sushravya40/ShopKart) | [🌐 Live Demo](https://shopkart-frontend-9nk9.onrender.com)
+[🔗 GitHub](https://github.com/Sushravya40/shopkart-ecommerce) | [🌐 Live Demo](https://shopkart-frontend-9nk9.onrender.com)
 
 #### [Planr: Modern Task Manager](https://planr-jhr2.onrender.com)
 A highly interactive Task Manager built with React, Vite, and a glassmorphism UI.<br>
@@ -87,7 +87,7 @@ A modern, responsive e-commerce platform for home decor items currently under ac
 
 ### 🏆 Certifications
 
-- **Full Stack Development** @ *KodNest* (June 2026) | [View Credential](https://production-resume-builder.s3.ap-south-1.amazonaws.com/certificates/KOD1NF63V-Sushravya%20B%20C/certificate.pdf)
+- **Full Stack Development** @ *KodNest* (Issued June 14, 2026) | [View Credential](https://production-resume-builder.s3.ap-south-1.amazonaws.com/certificates/KOD1NF63V-Sushravya%20B%20C/certificate.pdf)
 
 ---
 

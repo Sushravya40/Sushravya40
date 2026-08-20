@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushravya B C</h1>
-<h3 align="center">Software Developer | Java Full Stack | Spring Boot • React • MySQL • Python</h3>
+<h3 align="center">Java Full Stack Developer | Open to Work</h3>
 
 <p align="center">
   <a href="https://sushravya40.github.io/-/" target="_blank">
@@ -19,6 +19,18 @@
 
 I am a Full-Stack Developer passionate about building scalable, responsive web applications and solving real-world problems. I'm currently focused on advanced React, Spring Boot, and AI integrations.<br>
 **[Read my full story & see my timeline →](https://sushravya40.github.io/-/)**
+
+---
+
+### 🔭 What I'm working on
+
+- Dockerizing ShopKart and setting up CI/CD pipeline
+
+---
+
+### 🌱 Currently Learning
+
+- Docker | GitHub Actions CI/CD | AWS
 
 ---
 

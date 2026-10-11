@@ -53,6 +53,7 @@ I am a Full-Stack Developer passionate about building scalable, responsive web a
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
@@ -62,7 +63,7 @@ I am a Full-Stack Developer passionate about building scalable, responsive web a
 ### 🚀 Featured Projects
 
 #### [ShopKart: Full-Stack E-Commerce App](https://github.com/Sushravya40/shopkart-ecommerce)
-A robust Spring Boot + React e-commerce application with seamless Razorpay integration.<br>
+A full-stack e-commerce platform built with Spring Boot, React, and MySQL featuring 22+ RESTful APIs, JWT authentication, Razorpay payments, and Docker containerization.<br>
 [🔗 GitHub](https://github.com/Sushravya40/shopkart-ecommerce) | [🌐 Live Demo](https://shopkart-frontend-9nk9.onrender.com)
 
 #### [Planr: Modern Task Manager](https://planr-jhr2.onrender.com)

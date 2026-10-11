@@ -63,7 +63,7 @@ I am a Full-Stack Developer passionate about building scalable, responsive web a
 ### 🚀 Featured Projects
 
 #### [ShopKart: Full-Stack E-Commerce App](https://github.com/Sushravya40/shopkart-ecommerce)
-A full-stack e-commerce platform built with Spring Boot, React, and MySQL featuring 22+ RESTful APIs, JWT authentication, Razorpay payments, and Docker containerization.<br>
+A full-stack e-commerce platform built with Spring Boot, React, and MySQL featuring an interactive AI Shopping Assistant, 22+ RESTful APIs, JWT authentication, Razorpay payments, and Docker containerization.<br>
 [🔗 GitHub](https://github.com/Sushravya40/shopkart-ecommerce) | [🌐 Live Demo](https://shopkart-frontend-9nk9.onrender.com)
 
 #### [Planr: Modern Task Manager](https://planr-jhr2.onrender.com)
